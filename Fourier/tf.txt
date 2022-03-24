@@ -1,0 +1,11 @@
+se calucla la transformada de Fourier discreta en Python 
+utilizando la transformada rápida de Fourier (o FFT) que viene con la libreria de
+ CV2 en Python
+
+Me di cuenta de la potencia de cv2, no solo para moestrar la magnitud de espectro de la imagen
+también para reconociemiento de rostros por medio de esta libreria que es para echarle un buen ojo
+
+Vienen algunas imagenes con las que probe el espectro
+
+
+No pude hacer que la compresion la introdujera por un input
